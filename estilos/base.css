@@ -55,9 +55,9 @@ section#botoes img {
 section#botoes img:hover {
     border: 2px solid white;
     transform: translate(-8px, 0px);
-    transition: transform .4s, border .3s;
+    transition: transform .4s, border .3s, box-shadow .4s;
 
-    box-shadow: 3px 7px 15px rgba(0, 0, 0, 0.655);
+    box-shadow: 3px 7px 15px rgba(0, 0, 0, 0.6);
 }
 
 
