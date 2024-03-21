@@ -29,10 +29,9 @@ section#celular {
 }
 
 section > iframe {
-    background:blue url('../imagens/tela-home.jpg') no-repeat center;
-    background-size: contain;
-    width: 268px;
-    height: 472px;
+
+    width: 269px;
+    height: 471px;
 
     position:absolute;
     top: 80px;
